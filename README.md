@@ -58,4 +58,48 @@ Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de d
 
 Welcome to this repository. This collection contains simple Java programs designed to demonstrate the use of conditional control structures (`if`, `else if`, `else`, `switch`, `case`, `try-catch`) and loops (`while`).
 
-Each program addresses a different independent use case to illustrate
+Each program addresses a different independent use case to illustrate how these basic concepts can be applied in programming logic.
+
+## 📂 Included Programs
+
+* **`Aposta.java`**:
+    * Logic exercise regarding the general operation of a bet.
+
+* **`Bucle.java`**:
+    * Generates a numerical sequence starting at 2 and increasing by 3 up to a user-defined limit.
+
+* **`ConvertirTemperatura.java`**:
+    * Converts temperatures from Fahrenheit to Celsius as many times as the user specifies.
+
+* **`Dies.java`**:
+    * Program that asks for the month number from the keyboard and tells you which month it belongs to and how many days it has.
+
+* **`HoresMinutsSegons.java`**:
+    * Converts a total amount of seconds entered from the keyboard into hours, minutes, and seconds.
+
+* **`Lletres.java`**:
+    * Checks if the character entered by the user is a lowercase letter, an uppercase letter, or neither (repeats 10 times).
+
+* **`Moneda.java`**:
+    * Simulates flipping a coin (heads or tails) 100 times with one-second pauses, keeping track of the total count for each side.
+
+* **`Numbers_random.java`**:
+    * Generates and prints 50 random numbers with a one-second pause between each.
+
+* **`pedra_paper_tisores.java`**:
+    * Game of rock, paper, scissors.
+
+* **`Prima`**:
+    * Calculate the insurance premium.
+
+* **`UsernamePassword`**:
+    * Login and user validation.
+    
+---
+
+## 📜 License
+This project is released under **The Unlicense**. This code is in the public domain and has no restrictions on use. See the [LICENSE](LICENSE) file for details.
+
+---
+    
+> **⚠️PD:** The Javas are originally made in Catalan but I have included comments on the translation.
